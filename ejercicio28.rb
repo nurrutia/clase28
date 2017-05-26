@@ -68,3 +68,5 @@ puts
 puts Mycar.ancestors
 puts
 puts car1.llamadoprivado
+puts
+puts car1.edadvehiculo
